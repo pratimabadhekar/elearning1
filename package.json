@@ -1,0 +1,23 @@
+{
+  "name": "elearning1",
+  "version": "1.0.0",
+  "description": "this is E-learning repository",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratimabadhekar/elearning1.git"
+  },
+  "author": "ravi sir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratimabadhekar/elearning1/issues"
+  },
+  "homepage": "https://github.com/pratimabadhekar/elearning1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
